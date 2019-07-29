@@ -1,0 +1,166 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#map {
+    height: 450px;
+    width: 100%;
+    border-radius: 40px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+
+bg-color-map {
+    background-color: grey;
+}
+
+.uppercase {
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    font-size: 20px;
+    color: white;
+    font-weight: 800;
+}
+
+.card-body {
+    background-color: rgb(39, 37, 37);
+    color: white;
+}
+
+.jumbotron {
+    position: relative;
+    overflow: hidden;
+}
+
+.jumbotron .container {
+    position: relative;
+    z-index: 2;
+    background: rgba(0, 0, 0, 0.2);
+    padding: 2rem;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+}
+
+.jumbotron-background {
+    object-fit: cover;
+    font-family: 'object-fit: cover;';
+    position: absolute;
+    top: 0;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    opacity: 0.5;
+}
+
+.centered-text {
+    text-align: center;
+}
+
+.fa-plane-departure {
+    color: rgba(228, 134, 13, 0.726);
+    font-size: 50px;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+.fa-wine-glass {
+    color: darkred;
+    font-size: 55px;
+    margin-right: 100px;
+    margin-top: 45px;
+}
+
+.fa-utensils {
+    color: Grey;
+    font-size: 55px;
+    margin-right: 100px;
+    margin-top: 45px;
+}
+
+.fa-ship{
+    color: rgb(47, 110, 139);
+    font-size: 55px;
+    margin-right: 100px;
+    margin-top: 45px;
+}
+
+.fa-swimming-pool{
+    color: blue;
+    font-size: 55px;
+    margin-right: 100px;
+    margin-top: 45px;
+}
+.fa-umbrella-beach{
+    color: yellow;
+    font-size: 55px;
+    margin-right: 0px;
+    margin-top: 45px;
+}
+
+@media  (max-width: 600px) {
+    .fa-wine-glass {
+        color: darkred;
+        font-size: 25px;
+        margin: 15px;
+        
+    }
+    
+    .fa-utensils {
+        color: Grey;
+        font-size: 25px;
+        margin: 15px;        
+    }
+    
+    .fa-ship{
+        color: rgb(47, 110, 139);
+        font-size: 25px;
+        margin: 15px;
+    }
+    
+    .fa-swimming-pool{
+        color: blue;
+        font-size: 25px;
+        margin: 15px;
+    }
+    .fa-umbrella-beach{
+        color: yellow;
+        font-size: 25px;
+        margin: 15px;
+    }      
+  }
+
+  @media  (max-width: 684px) {
+    .fa-wine-glass {
+        color: darkred;
+        font-size: 25px;
+        margin: 15px;
+        
+    }
+    
+    .fa-utensils {
+        color: Grey;
+        font-size: 25px;
+        margin: 15px;        
+    }
+    
+    .fa-ship{
+        color: rgb(47, 110, 139);
+        font-size: 25px;
+        margin: 15px;
+    }
+    
+    .fa-swimming-pool{
+        color: blue;
+        font-size: 50px;
+        margin: 15px;
+    }
+    .fa-umbrella-beach{
+        color: yellow;
+        font-size: 25px;
+        margin: 15px;
+    }      
+  }
+
