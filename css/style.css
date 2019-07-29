@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Special+Elite&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -162,5 +163,9 @@ bg-color-map {
         font-size: 25px;
         margin: 15px;
     }      
+  }
+
+  .special-font{
+      font-family: 'Special Elite', cursive;
   }
 
