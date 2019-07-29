@@ -179,3 +179,7 @@ bg-color-map {
   .table{
       margin-top: 20px;
   }
+
+  .alert{
+      margin: 0px;
+  }
