@@ -29,6 +29,7 @@ bg-color-map {
 .card-body {
     background-color: rgb(39, 37, 37);
     color: white;
+    margin-bottom: 20px;
 }
 
 .jumbotron {
@@ -169,3 +170,12 @@ bg-color-map {
       font-family: 'Special Elite', cursive;
   }
 
+
+  .form-control{
+      margin-top: 20px;
+      margin-bottom: 20px;
+  }
+
+  .table{
+      margin-top: 20px;
+  }
