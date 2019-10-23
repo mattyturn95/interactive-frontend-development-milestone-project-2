@@ -25,6 +25,7 @@ function initMap () {
 
     markers.forEach(function (m) { m.setMap(null); });
     markers = [];
+    
 
     var bounds = new google.maps.LatLngBounds();
     places.forEach(function(p) {
