@@ -1,4 +1,5 @@
-# interactive-frontend-development-milestone-project-2
+# Interactive-frontend-development-milestone-project-2
+## MATTHEW BRYCE TURNER
 This is a Readme.MD file generated for my second milestone project through the code institute!
 <br>
 <br>
