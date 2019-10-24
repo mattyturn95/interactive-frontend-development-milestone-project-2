@@ -195,7 +195,9 @@ bg-color-map {
       margin: 0px;
   }
 
-  .footer{
-      background-color: #343a40;
+  footer{
+      background-color: #8a821d;
+      
       margin: 0;
-  }
+      padding: 0;
+  }.
