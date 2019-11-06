@@ -1,3 +1,6 @@
+<h1 align="center">
+  <a href="https://stiofaneimeid.github.io/travel-app/" target="_blank"><img src="https://github.com/stiofanEimeid/travel-app/blob/master/assets/images/routeRepLogofinal.png" alt="routeRep Logo"/></a>
+</h1>
 # Interactive-frontend-development-milestone-project-2
 ## MATTHEW BRYCE TURNER
 This is a Readme.MD file generated for my second milestone project through the code institute!
