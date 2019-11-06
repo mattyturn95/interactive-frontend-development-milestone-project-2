@@ -91,7 +91,7 @@ it has a clean easy to look at feel.
 -The app uses the Google Maps and Google Places API to provide search results about accommodation, places of interest and places to eat. Each individual result may be added to a list below the map so user's can keep track of the places they wish to visit, stay or dine.
 
 ### Features left to implement 
--In the future, I would like users to have the ability to save their composed itineraries in the form of a PDF. At the moment, they receive an error message contained in a modal when they click the save button. 
+-In the future, I would like users to be able to save the pdf file and share it through social media to enable friends and family to have a look at the itinerary for future purposes. 
 
 ## Technologies Used
 
