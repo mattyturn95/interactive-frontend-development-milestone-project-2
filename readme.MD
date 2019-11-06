@@ -151,3 +151,21 @@ The following validation services and linter were used to check the validity of 
 - [W3C CSS validation](https://jigsaw.w3.org/css-validator/) was used to validate CSS.
 - [JSHint](https://jshint.com/) was used to validate JavaScript.
 
+## Manual testing
+Below is a detailed account of all the manual testing that has been done to confirm all areas of the site work as expected. 
+
+### Testing undertaken on desktop and laptop
+
+All steps on desktop were repeated in browsers: Firefox, Chrome and Internet Explorer and on two different desktop screen sizes.
+
+1. Responsiveness
+    - The results table sits alongside the map on larger devices as PC and laptop. 
+
+### Testing undertaken on tablet and phone devices
+All steps below were repeated to test mobile specific elements on the developers 2 Samsung phones and tablet. 
+And also in the Chrome Developer Tools device simulators on all options and orientations.
+
+1. Responsiveness
+    - The results table is hidden and appears directly under the map only when the user selects the visit, stay or dine buttons.
+
+This site was tested across multiple browsers (Chrome, Safari, Internet Explorer, FireFox) in Google Dev tools(Galaxy S5, Pixel 2/Pixel 2 XL, iphone 5/SE/6/7/8 Plus, X, ipad and ipad Pro) and on multiple devices, mobile (iPhone 4, 5, 7: , OnePlus 6,Chrome and Safari) and otherwise(Macbook Air and Mac Desktop) to ensure compatibility and responsiveness.
