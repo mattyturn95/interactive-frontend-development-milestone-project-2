@@ -168,4 +168,9 @@ And also in the Chrome Developer Tools device simulators on all options and orie
 1. Responsiveness
     - The results table is hidden and appears directly under the map only when the user selects the visit, stay or dine buttons.
 
-This site was tested across multiple browsers (Chrome, Safari, Internet Explorer, FireFox) in Google Dev tools(Galaxy S5, Pixel 2/Pixel 2 XL, iphone 5/SE/6/7/8 Plus, X, ipad and ipad Pro) and on multiple devices, mobile (iPhone 4, 5, 7: , OnePlus 6,Chrome and Safari) and otherwise(Macbook Air and Mac Desktop) to ensure compatibility and responsiveness.
+This site was tested across multiple browsers (Chrome, Safari, Internet Explorer, FireFox) in Google Dev tools(Galaxy S5, Pixel 2/Pixel 2 XL, iphone 5/SE/6/7/8 Plus, X, ipad and ipad Pro) and on multiple devices.
+
+## Further Testing
+
+Family and friends were asked to try the app on their devices. This insight was invaluable for improving site usability. 
+
