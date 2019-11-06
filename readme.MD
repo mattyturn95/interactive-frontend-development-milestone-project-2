@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://stiofaneimeid.github.io/travel-app/" target="_blank"><img src="https://github.com/stiofanEimeid/travel-app/blob/master/assets/images/routeRepLogofinal.png" alt="routeRep Logo"/></a>
+  <a href="https://github.com/mattyturn95/interactive-frontend-development-milestone-project-2" target="_blank"><img src="https://github.com/stiofanEimeid/travel-app/blob/master/assets/images/routeRepLogofinal.png" alt="routeRep Logo"/></a>
 </h1>
 # Interactive-frontend-development-milestone-project-2
 ## MATTHEW BRYCE TURNER
