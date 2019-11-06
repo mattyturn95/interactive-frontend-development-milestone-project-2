@@ -22,10 +22,9 @@ The Trip Starter travel application uses the Google Maps and Places APIs to allo
     - [**User Goals**](#player-goals)
     - [**User Stories**](#user-stories)
     - [**Design Choices**](#design-choices)
-    - [**Wireframes**](#wireframes)
+    
 
-2. [**Features**](#features)
-    - [**Demo**](#demo)
+2. [**Features**](#features)   
     - [**Existing Features**](#existing-features)
     - [**Features Left to Implement**](#features-left-to-implement)
 
@@ -38,8 +37,7 @@ The Trip Starter travel application uses the Google Maps and Places APIs to allo
 
 6. [**Credits**](#credits)
     - [**Content**](#content)
-    - [**Media**](#media)
-    - [**Code**](#code)
+    - [**Media**](#media)    
     - [**Acknowledgements**](#acknowledgements)
     
     ## UX
@@ -182,4 +180,9 @@ Family and friends were asked to try the app on their devices. This insight was 
 ### Media
 
 All media was obtained through Unsplash [unsplash.com](https://unsplash.com/photos/_SFJhRPzJHs)
+
+### Acknowledgements
+
+Thank you to friends and family for testing the app and for the guidance provided by Slack. 
+
 
