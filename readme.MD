@@ -87,3 +87,7 @@ it has a clean easy to look at feel.
 **logo**
 - I once again obtained the logo as a font-awesome icon to ensure simplicity.
 - I chose an aeroplane as i felt it suited the needs of a travel app within the right context.
+
+#### Wireframes
+
+This [wireframe](https://github.com/stiofanEimeid/travel-app/blob/master/assets/wireframes/TA-wireframe.jpeg) illustrates early conceptions of the site. This [second wireframe](https://github.com/stiofanEimeid/travel-app/blob/master/assets/wireframes/routeRepfinal.jpeg) gives an impression of the final look of the site.
