@@ -141,3 +141,13 @@ git clone https://github.com/USERNAME/REPOSITORY
 7. Press Enter. Your local clone will be created.
 
 Further reading and troubleshooting on how to clone a repository from GitHub may be found [here](https://help.github.com/en/articles/cloning-a-repository).
+
+### Testing
+-## Automated Testing
+
+### Validation services
+The following validation services and linter were used to check the validity of the website code.
+- [W3C Markup Validation]( https://validator.w3.org/) was used to validate HTML.
+- [W3C CSS validation](https://jigsaw.w3.org/css-validator/) was used to validate CSS.
+- [JSHint](https://jshint.com/) was used to validate JavaScript.
+
