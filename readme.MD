@@ -44,9 +44,9 @@ The Trip Starter travel application uses the Google Maps and Places APIs to allo
     
     ## UX
 
-### Project Goals
+#### Project Goals
 
-#### User Goals
+### User Goals
 
 The desired target market/audience for this app is for tarvelers old or young looking at exploring the world and finding the perfect destination using the trip starter app.
 
@@ -56,4 +56,14 @@ user goals:
 
 Trip Starter provides the neccesary functions to deliver the needs and wants of a traveller
 - by adding relevant searches ie. restaurants and bars hotels and bnbs.
-- It makes use of 
+- It makes use of google maps to enable a sense of organised planning 
+
+#### User Stories
+
+My goal was to create a site that allows users to plan and document there travel itinerary inorder to achieve a unique and positive user experience.
+As a user of the site I want to:
+1. to select a destination and have a look at the relevent bars, hotels and tourist destinations.
+2. create a list to keep my plans neat and tidy.
+
+### Design Choices
+
