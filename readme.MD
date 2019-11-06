@@ -100,8 +100,8 @@ it has a clean easy to look at feel.
 - This project uses HTML, CSS and JavaScript programming languages.
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
-- [Cloud9](https://c9.io) 
-    - Developer used **Cloud9** for their IDE while building the website.
+- [Visual Studio Code](https://code.visualstudio.com/) 
+    - Developer used **VS Code** for their IDE while building the website.
 - [Bootstrap](https://www.bootstrapcdn.com/)
     - The project uses **Bootstrap** to simplify the structure of the website and make the website responsive easily.
     - The project also uses Bootstrap to provide icons from [FontAwesome](https://www.bootstrapcdn.com/fontawesome/)
@@ -115,12 +115,6 @@ it has a clean easy to look at feel.
     - The app uses the **Google Maps API** and associated code to generate a map object in the app.
 - [Google Places](https://cloud.google.com/maps-platform/places/?utm_source=google&utm_medium=cpc&utm_campaign=FY18-Q2-global-demandgen-paidsearchonnetworkhouseads-cs-maps_contactsal_saf&utm_content=text-ad-none-none-DEV_c-CRE_342707335086-ADGP_Hybrid+%7C+AW+SEM+%7C+BKWS+~+Google+Maps+Places+API+EXA-KWID_43700042842848036-kwd-22859391737-userloc_1007850&utm_term=KW_google%20places%20api-ST_google+places+api&gclid=CMOd95rs1-ICFcGHGwodv48ANg)
     - The app uses the **Google Places API** to provide location information to the user when they are using the map. 
-- [Favicon](https://www.favicon-generator.org/)
-    - Favicons were generated from a screenshot of the routeRep logo using the **favicon-generator** site. 
-- [QuickTime](https://support.apple.com/quicktime)
-    - **QuickTime**'s screen capture feature was used to capture video of the app in use. 
-- [Ezgif](https://ezgif.com/)
-    - Video captured using Quicktime was converted to GIF format using the **Ezgif** site.
 - [Compressjpeg](https://compressjpeg.com/)
     - The **Compressjpeg** site was reduced to reduce the file size of the background-image used at the top of the app.
 - [Autoprefixer](https://autoprefixer.github.io/)
