@@ -127,3 +127,17 @@ it has a clean easy to look at feel.
 The site was built using Visual Studio Code, added, commited and pushed to GitHub using the terminal. A live version of the site is hosted on GitHub pages.
 
 ### How to Run Code Locally
+In order to run a repository locally, the repository must be cloned. To clone the repository
+:
+1. Follow the link to the [routeRep GitHub repository](https://github.com/stiofanEimeid/travel-app).
+2. Under the repository name, click "Clone or download".
+3. In the Clone with HTTPs section, copy the clone URL for the repository. 
+4. In your preferred IDE, open the terminal.
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type ```git clone```, and then paste the URL you copied in Step 3.
+```console
+git clone https://github.com/USERNAME/REPOSITORY
+```
+7. Press Enter. Your local clone will be created.
+
+Further reading and troubleshooting on how to clone a repository from GitHub may be found [here](https://help.github.com/en/articles/cloning-a-repository).
