@@ -121,3 +121,9 @@ it has a clean easy to look at feel.
     - The **Autoprefixer** was used to to make sure css had all prefixes necessary to work across all browsers.
 - [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
     - The w3schools.com **HTML Color Picker** was used to help find colours for the app.
+   
+   ## Deployment
+
+The site was built using Visual Studio Code, added, commited and pushed to GitHub using the terminal. A live version of the site is hosted on GitHub pages.
+
+### How to Run Code Locally
