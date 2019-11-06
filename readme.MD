@@ -1,7 +1,9 @@
 <h1 align="center">
   <a href="https://github.com/mattyturn95/interactive-frontend-development-milestone-project-2" target="_blank"><img src="https://github.com/mattyturn95/interactive-frontend-development-milestone-project-2/blob/master/images/interactive%20logo%20image.png" alt="routeRep Logo"/></a>
 </h1>
+
 # Interactive-frontend-development-milestone-project-2
+
 ## MATTHEW BRYCE TURNER
 This is a Readme.MD file generated for my second milestone project through the code institute!
 <br>
