@@ -88,6 +88,8 @@ it has a clean easy to look at feel.
 - I once again obtained the logo as a font-awesome icon to ensure simplicity.
 - I chose an aeroplane as i felt it suited the needs of a travel app within the right context.
 
-#### Wireframes
+## Features
+### Existing Features
+-The app uses the Google Maps and Google Places API to provide search results about accommodation, places of interest and places to eat. Each individual result may be added to a list below the map so user's can keep track of the places they wish to visit, stay or dine.
 
-This [wireframe](https://github.com/stiofanEimeid/travel-app/blob/master/assets/wireframes/TA-wireframe.jpeg) illustrates early conceptions of the site. This [second wireframe](https://github.com/stiofanEimeid/travel-app/blob/master/assets/wireframes/routeRepfinal.jpeg) gives an impression of the final look of the site.
+### Features left to implement 
