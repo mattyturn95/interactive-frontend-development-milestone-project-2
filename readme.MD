@@ -66,4 +66,24 @@ As a user of the site I want to:
 2. create a list to keep my plans neat and tidy.
 
 ### Design Choices
+I like the idea of a minimalist approach where by users can enter a site without feeling overwhelmed ny the extensive use of flashy colors and hard on the eye graphics. I want to create a clear and positive user experience.
 
+**fonts**
+- The Cinzel serif font was chosen to create a simple yet effective way of displaying text throughout the project
+it has a clean easy to look at feel.
+
+**icons**
+- I made use of the large array of icons that font-awesome has to provide its a simple way of creating an effect to show what the site has to offer.
+- i made use of the, Fork, Wine glass, Ship, Swimming pool & umbrella icons which i though was an effective way to show users that our site offers the relevent services.
+
+**colors**
+- Throughout the majority of my project i have made use of dark grey colors to give a sense of ease on the users eyes
+
+**styling**
+- I opted for a basic navbar with three links to ensure the user does not get lost with too many options to venture off from.
+- The background Image is of an aerial view of a city night sky with an Opaque overlay to reduce the intensity of the sharp city lights, I felt that it gives off a feeling or relaxtaion and calmness to the user when landing upon the page.
+- I have made use of the boostrap grid system to create a less complex approach to relaying my content with in the site.
+
+**logo**
+- I once again obtained the logo as a font-awesome icon to ensure simplicity.
+- I chose an aeroplane as i felt it suited the needs of a travel app within the right context.
