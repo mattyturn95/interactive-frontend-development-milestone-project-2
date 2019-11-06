@@ -180,6 +180,7 @@ Family and friends were asked to try the app on their devices. This insight was 
 ### Media
 
 All media was obtained through Unsplash [unsplash.com](https://unsplash.com/photos/_SFJhRPzJHs)
+The Travel video was obtained through Youtube and placed into the footer to allow users to get a feel for travel.[youtube.com](https://www.youtube.com/embed/lJ87yD_8u3U)
 
 ### Acknowledgements
 
