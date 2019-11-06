@@ -112,6 +112,8 @@ bg-color-map {
     margin-top: 45px;
 }
 
+/*-------media queries--------*/
+
 @media (max-width: 600px) {
     .fa-wine-glass {
         color: darkred;
@@ -167,6 +169,8 @@ bg-color-map {
         margin: 15px;
     }
 }
+
+/*-------media queries--------*/
 
 /*------------Styling for the main image or callout logo----------*/
 
