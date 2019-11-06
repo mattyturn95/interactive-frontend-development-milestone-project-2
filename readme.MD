@@ -174,3 +174,12 @@ This site was tested across multiple browsers (Chrome, Safari, Internet Explorer
 
 Family and friends were asked to try the app on their devices. This insight was invaluable for improving site usability. 
 
+### Content 
+
+- All Content was written by me.
+
+
+### Media
+
+All media was obtained through Unsplash [unsplash.com](https://unsplash.com/photos/_SFJhRPzJHs)
+
